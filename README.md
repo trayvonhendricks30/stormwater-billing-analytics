@@ -12,7 +12,7 @@ I analyzed a simulated stormwater billing dataset to answer three questions:
 
   3. Which invoices contained possible data-quality problems?
 
-Interactive dashboard: View on Tableau Public
+Interactive dashboard: View on Tableau Public (https://public.tableau.com/app/profile/trayvon.hendricks/viz/Stormwater_Operations_Billing_Dashboard/StormwaterOperationsBillingDashboard#1)
 
 This project uses fictional data created for portfolio purposes. It does not contain real company or customer information.
 
